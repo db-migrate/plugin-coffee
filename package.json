@@ -4,7 +4,7 @@
   "description": "A db-migrate plugin to enable coffee script style migrations.",
   "main": "index.js",
   "dependencies": {
-    "coffee-script": "^1.11.0"
+    "coffeescript": "^2.2.4"
   },
   "devDependencies": {},
   "scripts": {
