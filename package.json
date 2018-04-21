@@ -1,6 +1,6 @@
 {
   "name": "db-migrate-plugin-coffee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A db-migrate plugin to enable coffee script style migrations.",
   "main": "index.js",
   "dependencies": {
