@@ -11,7 +11,7 @@ module.exports = {
           * Always delay requires, otherwise your plugin will cause trouble
           * with db-migrates performance and generates issues to your users.
           */
-        require('coffee-script').register();
+        require('coffeescript').register();
 
         /**
           * Return value of this hook can be both, pure value or a promise.
